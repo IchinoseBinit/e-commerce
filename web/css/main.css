@@ -1,0 +1,44 @@
+body {
+    color: #FF7643 !important;
+    padding: 50px 0px;
+}
+
+h1, h3 {
+    text-align: center;
+}
+
+h3 {
+    padding-top: 10px;
+}
+
+h4, h5 {
+    color: black !important;
+}
+
+.gap {
+    margin: 80px;
+}
+
+.gap-small {
+    margin: 20px;
+}
+
+.img {
+    display: flex;
+    justify-content: center;
+}
+
+.icon-img {
+    vertical-align: middle;
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    padding: 15px;
+    background-color: #FF7643 !important;
+    justify-content: center;
+  }
+
+  .btn-color {
+      background-color: #FF7643 !important;
+      border-color: #FF7643 !important;
+  }
